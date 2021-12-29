@@ -1,0 +1,45 @@
+#header{
+    font-size:  25px; 
+    color: navy;
+    font-family: 'Playfair Display', serif;
+}
+.heading{
+    width:100%;
+    box-shadow:10px 10px 10px navy; 
+    padding:15px;
+    margin:0px;
+    
+}
+
+img{
+    border-radius: 100px;
+    width:115px;
+    height:115px;
+    margin-right: 20px;
+}
+
+.description{
+    font-size: 20px;
+}
+
+#footer{
+    width:100%;
+    position: fixed;
+    background-color: indianred;
+    color:navy;
+    bottom:0;
+    text-align:center;
+    line-height:25px;
+    
+}
+
+body{
+    background: linear-gradient(to right, red,yellow,orange);
+}
+
+canvas{
+   
+    border: 5px solid navy;
+}
+
+
